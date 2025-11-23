@@ -98,7 +98,3 @@ This project applies **machine learning techniques** on the MovieLens dataset to
   - ICF suffers from data sparsity  
 - **Future Work:** Build a **Hybrid Recommendation System**
 
-
-
-## 🗂️ Project Structure
-
